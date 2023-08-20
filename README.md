@@ -2,8 +2,16 @@
    <img src="https://github.com/dotnet-architecture/eShopOnContainers/raw/dev/img/eshop_logo.png" alt="eShop logo" title="eShopOnContainers" align="right" height="60" />
 </a>
 
+Splunk APM Implementation: 
 
-Splunk APM Implementation: Add your ENVIROMENT TAG, REALM and TOKEN to each of the following Docker Files .
+
+![image](https://github.com/shabuhabs/eShop_sfx_DotNetCore-7.0/assets/32849847/dc9f9cee-9c4b-4025-abd7-75b6247f9e91)
+
+
+
+
+
+Add your ENVIROMENT TAG, REALM and TOKEN to each of the following Docker Files .
 
 ```
 src/Web/WebMVC/Dockerfile
