@@ -2,6 +2,20 @@
    <img src="https://github.com/dotnet-architecture/eShopOnContainers/raw/dev/img/eshop_logo.png" alt="eShop logo" title="eShopOnContainers" align="right" height="60" />
 </a>
 
+
+Splunk APM Implementation: Add your ENVIROMENT TAG, REALM and TOKEN to each of the following Docker Files .
+
+src/Web/WebMVC/Dockerfile
+src/Web/WebhookClient/Dockerfile
+src/Web/WebStatus/Dockerfile
+src/Web/WebSPA/Dockerfile
+src/Services/Catalog/Catalog.API/Dockerfile
+src/Services/Webhooks/Webhooks.API/Dockerfile
+src/Services/Payment/Payment.API/Dockerfile
+src/Services/Ordering/Ordering.API/Dockerfile
+src/Services/Identity/Identity.API/Dockerfile
+src/Services/Basket/Basket.API/Dockerfile
+
 # .NET Microservices Sample Reference Application
 
 Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers.
