@@ -12,7 +12,8 @@
 
 
 # Instrumentation Guide
-# Inspect and add your ENVIROMENT TAG, REALM and TOKEN to each of the following Docker Files .
+
+Inspect and add your ENVIROMENT TAG, REALM and TOKEN to each of the following Docker Files .
 
 ```
 src/Web/WebMVC/Dockerfile
